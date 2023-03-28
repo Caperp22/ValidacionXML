@@ -1,0 +1,7 @@
+D:\3. Desarrollos\ValidacionXMLs\ValidacionDeXMLs\obj\Debug\ValidacionDeXMLs.csproj.AssemblyReference.cache
+D:\3. Desarrollos\ValidacionXMLs\ValidacionDeXMLs\obj\Debug\ValidacionDeXMLs.csproj.CoreCompileInputs.cache
+D:\3. Desarrollos\ValidacionXMLs\ValidacionDeXMLs\bin\Debug\ValidacionDeXMLs.exe.config
+D:\3. Desarrollos\ValidacionXMLs\ValidacionDeXMLs\bin\Debug\ValidacionDeXMLs.exe
+D:\3. Desarrollos\ValidacionXMLs\ValidacionDeXMLs\bin\Debug\ValidacionDeXMLs.pdb
+D:\3. Desarrollos\ValidacionXMLs\ValidacionDeXMLs\obj\Debug\ValidacionDeXMLs.exe
+D:\3. Desarrollos\ValidacionXMLs\ValidacionDeXMLs\obj\Debug\ValidacionDeXMLs.pdb
